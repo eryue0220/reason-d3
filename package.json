@@ -1,0 +1,29 @@
+{
+  "name": "reason-d3",
+  "version": "0.0.1",
+  "description": "reason binding for d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eryue0220/reason-d3.git"
+  },
+  "keywords": [
+    "reason",
+    "reasonml",
+    "d3"
+  ],
+  "author": "eryue0220",
+  "bugs": {
+    "url": "https://github.com/eryue0220/reason-d3/issues"
+  },
+  "homepage": "https://github.com/eryue0220/reason-d3#readme",
+  "devDependencies": {
+    "rollup": "^0.53.0"
+  },
+  "dependencies": {
+    "d3-shape": "^1.2.0"
+  }
+}
